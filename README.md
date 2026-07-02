@@ -1,4 +1,4 @@
-# 🌾 Krishi Sahayak (ಕೃಷಿ ಸಹಾಯಕ) — Local Language Farmer's Companion
+# 🌾 Krishi Sahayak— Local Language Farmer's Companion
 **Agentic AI Capstone Project** | *Track: Agents for Good*
 
 ---
