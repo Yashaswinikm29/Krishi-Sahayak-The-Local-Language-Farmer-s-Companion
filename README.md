@@ -21,32 +21,14 @@ In India, small-scale and marginal farmers face two critical, day-to-day challen
 
 ---
 
-## 2. Presentation & Video Visuals
-
-### Visual 0: Team & Project Introduction
-This clean, text-focused cover page features a simple agricultural backdrop to introduce the project identity and the development team clearly without visual clutter.
-* **Asset Name Reference:** `watermarked_img_2341123774389601600.png`
-
-### Visual 1: The Core Challenges Facing Indian Farmers
-This graphic illustrates the dual challenges the project addresses. On the left, a farmer in his field stands looking at a diseased leaf, symbolizing the struggle for quick crop advice. On the right, he is shown confused while looking at complex official paperwork, representing the accessibility barrier to government schemes.
-* **Asset Name Reference:** `watermarked_img_8962192025486232687.png`
-
-### Visual 2: How It Works (The Agentic Process)
-This image visualizes the "agentic" workflow. It follows the farmer through the step-by-step thinking process of the AI, moving from image capture to the autonomous "check" and "search" functions, showing how the agent makes decisions before delivering a simplified diagnosis or eligibility result.
-* **Asset Name Reference:** `watermarked_img_10884419478287486524.png`
-
-### Visual 3: Tech Stack & Social Impact
-This visual showcases the ultimate positive outcome. The farmer stands confidently in a healthy field holding his phone, which displays both a *disease diagnosis* and *scheme eligibility* update. The visual flow incorporates small icons for Google Gemini and Streamlit, connecting the technical architecture to the real-world impact.
-* **Asset Name Reference:** `watermarked_img_11276199123581827667.png`
-
----
 
 ## 3. Detailed System Execution Walkthrough
 
 ### Module A: Crop Disease Diagnosis
 
 #### 1. Initial State (Empty Upload Dashboard)
-* **Visual Reference:** `WhatsApp Image 2026-07-02 at 11.26.14 AM.jpeg`
+* **Visual Reference:** <img width="1600" height="693" alt="image" src="https://github.com/user-attachments/assets/80294078-86a8-43e8-853a-9ca362b99400" />
+
 * **Details:** Clear upload interface supporting multiple Indian languages (defaulted to Kannada). Displays a prompt area on the right informing the user that the AI agent's live reasoning path will render dynamically upon file ingestion.
 
 #### 2. Live Agent Logic & In-Execution Reasoning
