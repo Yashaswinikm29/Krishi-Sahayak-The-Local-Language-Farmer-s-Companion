@@ -83,15 +83,15 @@ In India, small-scale and marginal farmers face two critical, day-to-day challen
    git clone [https://github.com/Yashaswinikm29/Krishi-Sahayak-The-Local-Language-Farmer-s-Companion.git]
    cd Krishi-Sahayak-The-Local-Language-Farmer-s-Companion
 
-2. **Install Dependecies
+2. **Install Dependecies**
     ```bash
     pip install -r requirements.txt
 
-3. **Configure Environment Variables:
+3. **Configure Environment Variables:**
 Create a .env file in the root directory and add your API key:
 Code snippet
 GEMINI_API_KEY=your_actual_api_key_here
 
-5. **Run the Application:
+5. **Run the Application:**
  ```bash
 streamlit run app.py
