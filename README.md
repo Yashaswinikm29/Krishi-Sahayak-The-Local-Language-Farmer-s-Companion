@@ -22,7 +22,7 @@ In India, small-scale and marginal farmers face two critical, day-to-day challen
 ---
 
 
-## 3. Detailed System Execution Walkthrough
+## 2. Detailed System Execution Walkthrough
 
 ### Module A: Crop Disease Diagnosis
 
@@ -68,7 +68,7 @@ In India, small-scale and marginal farmers face two critical, day-to-day challen
 
 ---
 
-## 4. Technical Stack Architecture
+## 3. Technical Stack Architecture
 
 * **Frontend UI Framework:** Streamlit (Python-based interactive web interface)
 * **Core LLM & Vision Engine:** Google Gemini API (for image understanding, policy semantic mapping, and multi-lingual text synthesis)
@@ -76,7 +76,7 @@ In India, small-scale and marginal farmers face two critical, day-to-day challen
 
 ---
 
-## 5. Local Setup & Installation
+## 4. Local Setup & Installation
 
 1. **Clone the Repository:**
    ```bash
